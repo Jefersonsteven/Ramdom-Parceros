@@ -1,7 +1,7 @@
 {
   "name": "random-parceros",
   "version": "1.0.1",
-  "description": "Es un random de messages",
+  "description": "I don't know what to write for the first commit.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,15 @@
   "author": "Jefferson <gfreycode@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-Parceros": "./bin/global.js"
+    "random-Parceros": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GfreyJS/Ramdom-Parceros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GfreyJS/Ramdom-Parceros/issues"
+  },
+  "homepage": "https://github.com/GfreyJS/Ramdom-Parceros#readme"
 }
