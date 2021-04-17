@@ -1,0 +1,20 @@
+{
+  "name": "random-parceros",
+  "version": "1.0.1",
+  "description": "Es un random de messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Jefferson <gfreycode@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-Parceros": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
